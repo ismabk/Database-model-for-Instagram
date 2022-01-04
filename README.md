@@ -1,4 +1,4 @@
-# Data Modeling a StarWars Blog
+# Database model for Instagram
 <p align="center">
   <img
 		width="200"
@@ -9,19 +9,19 @@
 
 The project is using the SQLAlchemy Python library to generate the database with the following parameters:
 1. Four models with all their properties.
-1. The project should have a User table that will represent the users of the blog.
-1. The blog users will be able to log in and save their favorite planets and characters.
-1. The database should store the users favorites.
-1. The database should store the characters and planets.
+1. The tables that instagram might have on its database
+1. The properties should go inside the user.
+1. The properties inside the Post table.
+
 
 ### How to start this project:
 - If you are working locally, type the following command in your terminal:
 
-`git clone https://github.com/ismabk/Modeling-StarWars-Python1`
+`git clone https://github.com/ismabk/Database-model-for-Instagram`
 
 - If you use Gitpod you can clone the boilerplate by running the following command in your terminal:
 
-`git clone https://github.com/ismabk/Modeling-StarWars-Python`
+`git clone https://github.com/ismabk/Database-model-for-Instagram`
 
 Once the code has been obtained, type the following command in your terminal:
 
